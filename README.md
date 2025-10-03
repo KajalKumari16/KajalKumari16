@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KajalKumari16
+- 👋 Hi, I’m Kajal.
 - 👀 I’m interested in innovation, building something of my own🤩
 - 🌱 I’m currently learning flask (python) for backend of app development.
 - 🙎‍♀️ first ever participation on SSOC open souce 
